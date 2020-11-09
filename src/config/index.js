@@ -1,11 +1,11 @@
 module.exports = {
   author: "@nguyenanhpaul97",
   siteTitle: "Paul's Portfolio",
-  siteShortTitle: "Welcome", // Used as logo text in header, footer, and splash screen
+  siteShortTitle: "PN", // Used as logo text in header, footer, and splash screen
   siteDescription: "This is Paul's web portfolio.",
-  siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+  siteUrl: "https://nguyenanhpaul.netlify.app/",
   siteLanguage: "en_US",
-  siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
+  siteIcon: "src/content/contact/letterP.png", // Relative to gatsby-config file
 
   splashScreen: true, // Set this to true if you want to use the splash screen
 
@@ -28,7 +28,8 @@ module.exports = {
     },
     {
       name: "Resume",
-      url: "https://www.facebook.com/HIimPauI",
+      url:
+        "https://drive.google.com/file/d/1cltGf1aQojwbPw-8VJJ5-GmrtsZ5oADR/view?usp=sharing",
     },
   ],
 
