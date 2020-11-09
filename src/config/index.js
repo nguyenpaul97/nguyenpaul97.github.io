@@ -5,7 +5,6 @@ module.exports = {
   siteDescription: "This is Paul's web portfolio.",
   siteUrl: "https://nguyenanhpaul.netlify.app/",
   siteLanguage: "en_US",
-  siteIcon: "", // Relative to gatsby-config file
 
   splashScreen: true, // Set this to true if you want to use the splash screen
 
